@@ -15,4 +15,4 @@ It contains the following files:
 `run_analysis.R` contains all the code to perform the analyses described in the 5 steps.
 
 
-NB: The output  is called `averages_data.txt`, and uploaded separately in the form.
+NB: The output  is called `averages_data.txt`, and uploaded in this repository and separately in the form.
