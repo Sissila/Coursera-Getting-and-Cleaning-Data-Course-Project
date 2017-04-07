@@ -7,8 +7,12 @@ The dataset used in this project is available at this site: http://archive.ics.u
 
 ## Files
 It contains the following files:
+
 `README.md` explains the analysis files.
+
 `CodeBook.md` modifies and updates the available codebooks with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information.
-`run_analysis.R` contains all the code to perform the analyses described in the 5 steps. 
+
+`run_analysis.R` contains all the code to perform the analyses described in the 5 steps.
+
 
 NB: The output  is called `averages_data.txt`, and uploaded separately in the form.
